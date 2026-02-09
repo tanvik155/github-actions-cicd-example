@@ -138,3 +138,5 @@ dmypy.json
 # VisualStudioCode Patch
 # Ignore all local history of files
 **/.history
+node_modules/
+package-lock.json
